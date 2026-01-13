@@ -1,0 +1,7 @@
+{
+  "name": "ProSwing AI",
+  "description": "A high-performance golf swing analyzer powered by Gemini 3 Pro, providing frame-by-frame mechanical feedback and personalized improvement drills.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
